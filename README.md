@@ -1,0 +1,78 @@
+# 88rising & BIBI – The Weekend
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Barbie wanna party
+like all night
+And she lookin' like a zombie
+in her Off-White
+Yeah, she lookin', yeah,
+she lookin' for a hand out
+She think 'cause she with me
+she in a band now
+Pull up in the truck,
+pack it up like a limousine
+Lookin' like a blast
+from the past,
+look like Billie Jean
+And you're the only ten I see
+And I hope you like Hennessy
+And why, why, why, why, why
+Why, why, why, why, why
+Aren't you into me?
+You only call me on the weekend
+You only love me
+when we freakin'
+You got me jumpin'
+off the deep end
+You only call me on the
+You only call me on the
+You only call me on the weekend
+Wait a minute, wait a minute,
+we was just gettin' started
+I don't wanna,
+I don't wanna be broken-hearted
+Every time
+Every time
+Every time
+Every time
+They hit rewind
+They hit rewind
+They change their mind
+Oh,
+and why, why, why, why, why
+Why
+Why, why, why, why, why
+Aren't you into me?
+Aren't you into me?
+Aren't you into me?
+Aren't you into me?
+And why, why, why, why, why
+And why, why, why, why, why
+Aren't you into me?
+You
+You only call me on the weekend
+You only love me when we freakin
+You got me jumpin'
+off the deep end
+You only call me on the
+You only call me on the weekend
+Call me up if you're lonely
+See,
+I got the keys from my homies
+You the baddest one, my trophy
+Only you, you, you, you
+Only free past midnight
+Type of shit don't sit right
+Rather be alone and get high, oh
+You only call me on the weekend
+You only love me when we freakin
+You got me jumpin'
+off the deep end
+You only call me on the
+You only call me on the
+You only call me on the weekend
+Ah-ooh, ah
+Oh-ah, ah
+```
