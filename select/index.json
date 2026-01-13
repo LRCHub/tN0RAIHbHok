@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Weekend",
+  "base_artist": "88rising & BIBI",
+  "createdAt": "2026-01-13T19:02:11.377529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Hymn_for_the_Weekend_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Weekend",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/02_The_Weekend_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Weekend",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/03_The_Weekend_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Weekend (Album Version)",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/04_The_Weekend_(Album_Version)_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Weekend (Extended Vocal Mix)",
+      "artist": "Michael Gray",
+      "has_synced": true,
+      "path": "select/05_The_Weekend_(Extended_Vocal_Mix)_Michael_Gray.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Weekend (Nic Fanciulli Vocal Mix)",
+      "artist": "Michael Gray",
+      "has_synced": false,
+      "path": "select/06_The_Weekend_(Nic_Fanciulli_Vocal_Mix)_Michael_Gray.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Weekend (Original 12 Mix)",
+      "artist": "Michael Gray",
+      "has_synced": false,
+      "path": "select/07_The_Weekend_(Original_12_Mix)_Michael_Gray.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Weekend (Radio Edit)",
+      "artist": "Michael Gray",
+      "has_synced": true,
+      "path": "select/08_The_Weekend_(Radio_Edit)_Michael_Gray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Out on the Weekend (Live)",
+      "artist": "Neil Young feat. Stray Gators",
+      "has_synced": false,
+      "path": "select/09_Out_on_the_Weekend_(Live)_Neil_Young_feat._Stray_Gators.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Out On The Weekend",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/10_Out_On_The_Weekend_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Showing Out (Get Fresh At the Weekend) - 7\" Version",
+      "artist": "Mel & Kim",
+      "has_synced": true,
+      "path": "select/11_Showing_Out_(Get_Fresh_At_the_Weekend)_-_7__Version_Mel_&_Kim.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Showing Out (Get Fresh At the Weekend) - 7” Version",
+      "artist": "Mel & Kim",
+      "has_synced": true,
+      "path": "select/12_Showing_Out_(Get_Fresh_At_the_Weekend)_-_7”_Version_Mel_&_Kim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Something for the Weekend",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/13_Something_for_the_Weekend_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Something for the Weekend",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/14_Something_for_the_Weekend_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/15_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Working For The Weekend - live",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/16_Working_For_The_Weekend_-_live_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Working For The Weekend [Live]",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/17_Working_For_The_Weekend_[Live]_Loverboy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Weekend",
+      "artist": "88rising & BIBI",
+      "has_synced": false,
+      "path": "select/pl_01_The_Weekend_88rising_&_BIBI.txt"
+    }
+  ]
+}
